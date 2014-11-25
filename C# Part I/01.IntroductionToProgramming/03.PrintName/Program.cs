@@ -5,6 +5,6 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Stoyan Petev Kirov");
+        Console.WriteLine("Plamen Georgiev");
     }
 }
