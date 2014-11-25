@@ -5,8 +5,8 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("First name - Stoyan");
-        Console.WriteLine("Second name - Petev");
-        Console.WriteLine("Third name - Kirov");
+        Console.WriteLine("First name - Plamen");
+        Console.WriteLine("Second name - Nikolov");
+        Console.WriteLine("Third name - Georgiev");
     }
 }
